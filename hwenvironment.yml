@@ -1,0 +1,4 @@
+name: hwenvironment
+channels:
+  - defaults
+prefix: C:\Users\jades\anaconda3\envs\hwenvironment
